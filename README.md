@@ -150,13 +150,14 @@ This is am example of the results plotted back:
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Here's a [link to my video result on youtube.](https://www.youtube.com/watch?v=4fu25dC8uTY)
+
 ![Final Video Gif](finalvideo.gif)
 
 Following individual videos can be found in the root directory: 
--- project_output_v01_combined_binary.mp4 (thresholding step video)
--- project_output_v01_perp_transform.mp4 (bird's eye view video)
--- project_output_lane_lines.mp4 (lane lines searched)
--- project_output_v01.mp4 (Final Video)
+* project_output_v01_combined_binary.mp4 (thresholding step video)
+* project_output_v01_perp_transform.mp4 (bird's eye view video)
+* project_output_lane_lines.mp4 (lane lines searched)
+* project_output_v01.mp4 (Final Video)
 
 ---
 
