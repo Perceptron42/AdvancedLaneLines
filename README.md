@@ -1,6 +1,12 @@
 
 # Advanced Lane Finding Project
 
+
+![Alt Text](https://media.giphy.com/media/wbqFb7H8o3iGja115e/giphy.gif)
+
+Here's a [link to my video result on youtube.](https://www.youtube.com/watch?v=4fu25dC8uTY)
+
+
 ## Pipeline Description
 
 The goals / steps of this project are the following:
@@ -144,6 +150,7 @@ This is am example of the results plotted back:
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Here's a [link to my video result on youtube.](https://www.youtube.com/watch?v=4fu25dC8uTY)
+![Alt Text](https://media.giphy.com/media/wbqFb7H8o3iGja115e/giphy.gif)
 
 Following individual videos can be found in the root directory: 
 -- project_output_v01_combined_binary.mp4 (thresholding step video)
